@@ -1,0 +1,17 @@
+body{
+    background-image: url(img/images.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.paradix{
+
+    height:800px;
+    background-image: url(img/bmw-m-series-seo-overview-ms-04.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color:white;
+}
